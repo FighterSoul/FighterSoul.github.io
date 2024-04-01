@@ -249,11 +249,7 @@ const workExperiences = {
       companylogo: require("./assets/images/DundillLogo.png"),
       date: "April 01 – Present",
       desc: "Front end web development.",
-      descBullets: [
-        "Internship",
-        "Web and Mobile apps dev tester "
-       
-      ]
+      descBullets: ["Internship", "Web and Mobile apps dev tester "]
     }
   ]
 };
