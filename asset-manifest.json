@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/PortfolioWebsite/static/css/main.355cb33a.css",
+    "main.js": "/PortfolioWebsite/static/js/main.cdbe6954.js",
+    "static/css/64.2bd98ef3.chunk.css": "/PortfolioWebsite/static/css/64.2bd98ef3.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/PortfolioWebsite/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/PortfolioWebsite/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.2d714057.chunk.js": "/PortfolioWebsite/static/js/769.2d714057.chunk.js",
+    "static/media/2Fast.jpg": "/PortfolioWebsite/static/media/2Fast.46b2bdeb83bd33d7b70b.jpg",
+    "static/media/IEEE.png": "/PortfolioWebsite/static/media/IEEE.9b7bc48835285b8c865a.png",
+    "static/media/quicksort.png": "/PortfolioWebsite/static/media/quicksort.e0eb96c464c03c808891.png",
+    "static/media/EPI.png": "/PortfolioWebsite/static/media/EPI.409328d33e4b4fb081db.png",
+    "static/media/readers.png": "/PortfolioWebsite/static/media/readers.fcb51bb7aaf0f915bf0c.png",
+    "static/media/manOnTable.svg": "/PortfolioWebsite/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/fcc.png": "/PortfolioWebsite/static/media/fcc.6ff7f62bef9a41cece7c.png",
+    "static/media/Meta.png": "/PortfolioWebsite/static/media/Meta.955fb4cb02757791f4a5.png",
+    "static/media/contactMailDark.svg": "/PortfolioWebsite/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/PortfolioWebsite/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/DundillLogo.png": "/PortfolioWebsite/static/media/DundillLogo.c889959711fd758ca87e.png",
+    "static/media/epii-removebg-preview.png": "/PortfolioWebsite/static/media/epii-removebg-preview.86b4d0217e1ab265c06b.png",
+    "static/media/skill.svg": "/PortfolioWebsite/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/PortfolioWebsite/index.html",
+    "static/media/talksCardBack.svg": "/PortfolioWebsite/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.355cb33a.css.map": "/PortfolioWebsite/static/css/main.355cb33a.css.map",
+    "main.cdbe6954.js.map": "/PortfolioWebsite/static/js/main.cdbe6954.js.map",
+    "64.2bd98ef3.chunk.css.map": "/PortfolioWebsite/static/css/64.2bd98ef3.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/PortfolioWebsite/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/PortfolioWebsite/static/css/769.b3cbb36b.chunk.css.map",
+    "769.2d714057.chunk.js.map": "/PortfolioWebsite/static/js/769.2d714057.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.355cb33a.css",
+    "static/js/main.cdbe6954.js"
+  ]
+}
